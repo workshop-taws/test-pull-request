@@ -1,5 +1,5 @@
 def suma(a, b):
-  return a + a
+  return a + b
 
 a = int(input("A: "))
 b = int(input("B: "))
